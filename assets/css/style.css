@@ -12,6 +12,8 @@ html {
 body {
   /* Padding bottom by footer height */
   padding-bottom: 80px;
+  background-color: #cccccc;
+  background: rgba(76, 200, 80, 0.2)
 }
 
 #footer {
@@ -28,4 +30,8 @@ body {
 #footer p {
   margin: 0;
   font-size: 16px;
+}
+
+h1 {
+  text-align: center;
 }
